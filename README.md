@@ -56,7 +56,7 @@ llm = ChatCohere(cohere_api_key="your-cohere-api-key")
 ### 5. Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run itenary_planner.py
 ```
 
 ### 6. Enter Your Travel Details
