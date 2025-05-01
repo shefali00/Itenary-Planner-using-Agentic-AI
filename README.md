@@ -1,5 +1,5 @@
 
-# AI-Powered Travel Itinerary Planner
+# Itinerary Planner using Agentic AI
 
 An AI-powered travel itinerary planner that leverages **LangGraph**, **OpenSky API**, **OpenStreetMap**, and **ChatCohere** to generate personalized travel plans. The app analyzes user input regarding destination, budget, and preferences to suggest flights, hotels, weather, and local events.
 
@@ -27,7 +27,7 @@ An AI-powered travel itinerary planner that leverages **LangGraph**, **OpenSky A
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/ai-travel-itinerary-planner.git
+git clone https://github.com/shefali00/Itinerary-Planner-using-Agentic-AI/Itinerary-Planner-using-Agentic-AI.git
 cd ai-travel-itinerary-planner
 ```
 
